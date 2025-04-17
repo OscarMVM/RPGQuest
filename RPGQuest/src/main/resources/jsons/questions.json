@@ -1,0 +1,102 @@
+[
+  {
+    "questionText": "¿Qué comando se utiliza para crear un nuevo repositorio Git?",
+    "options": ["git init", "git start", "git new", "git create"],
+    "correctOptionIndex": 0
+  },
+  {
+    "questionText": "¿Qué comando muestra el estado actual del repositorio, incluyendo archivos modificados y no rastreados?",
+    "options": ["git check", "git status", "git log", "git diff"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para confirmar los cambios preparados en el repositorio?",
+    "options": ["git save", "git commit", "git push", "git confirm"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para ver el historial de confirmaciones en el repositorio?",
+    "options": ["git history", "git log", "git record", "git list"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para clonar un repositorio remoto en tu máquina local?",
+    "options": ["git copy", "git clone", "git download", "git fetch"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para cambiar a una rama diferente en Git?",
+    "options": ["git switch", "git change", "git move", "git checkout"],
+    "correctOptionIndex": 3
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para fusionar una rama en la rama actual?",
+    "options": ["git combine", "git merge", "git join", "git integrate"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para descargar cambios desde un repositorio remoto sin fusionarlos automáticamente?",
+    "options": ["git pull", "git fetch", "git clone", "git download"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para eliminar una rama local en Git?",
+    "options": ["git remove", "git delete", "git branch -d", "git erase"],
+    "correctOptionIndex": 2
+  },
+  {
+    "questionText": "¿Qué comando se utiliza para guardar temporalmente cambios no confirmados en Git?",
+    "options": ["git save", "git stash", "git hide", "git store"],
+    "correctOptionIndex": 1
+  },
+    {
+    "questionText": "¿Qué palabra clave se utiliza para definir una clase en Java?",
+    "options": ["function", "define", "class", "object"],
+    "correctOptionIndex": 2
+  },
+  {
+    "questionText": "¿Cuál es el tipo de dato adecuado para almacenar números enteros en Java?",
+    "options": ["String", "int", "boolean", "float"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué método se ejecuta al iniciar un programa en Java?",
+    "options": ["start()", "main()", "init()", "run()"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué palabra clave se utiliza para crear una nueva instancia de una clase?",
+    "options": ["create", "new", "make", "instance"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Cuál de los siguientes es un bucle en Java?",
+    "options": ["repeat", "foreach", "loop", "for"],
+    "correctOptionIndex": 3
+  },
+  {
+    "questionText": "¿Qué estructura se utiliza para manejar excepciones en Java?",
+    "options": ["try-catch", "if-else", "switch-case", "do-while"],
+    "correctOptionIndex": 0
+  },
+  {
+    "questionText": "¿Cuál es el modificador de acceso más restrictivo en Java?",
+    "options": ["public", "protected", "private", "default"],
+    "correctOptionIndex": 2
+  },
+  {
+    "questionText": "¿Qué palabra clave se utiliza para heredar de una clase en Java?",
+    "options": ["inherits", "extends", "implements", "super"],
+    "correctOptionIndex": 1
+  },
+  {
+    "questionText": "¿Qué tipo de dato se utiliza para representar valores verdaderos o falsos?",
+    "options": ["int", "char", "boolean", "float"],
+    "correctOptionIndex": 2
+  },
+  {
+    "questionText": "¿Qué operador se utiliza para comparar la igualdad de dos valores en Java?",
+    "options": ["=", "==", "!=", "equals"],
+    "correctOptionIndex": 1
+  }
+]
